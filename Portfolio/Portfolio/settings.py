@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-2$tgq(%b+j-#8ech_9)bsaz1%ayf!b^$ruov=jbmy#9%rw0$h1
 DEBUG = True
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['artemm.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
